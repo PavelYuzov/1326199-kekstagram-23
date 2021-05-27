@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Павел Юзов](https://up.htmlacademy.ru/javascript/23/user/1326199).
-* Наставник: `Неизвестно`.
+* Наставник: [Егор Дьяченко](https://htmlacademy.ru/profile/semperhomolupus).
 
 ---
 
